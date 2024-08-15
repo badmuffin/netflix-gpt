@@ -1,12 +1,10 @@
-import "./App.css";
-
 import React from 'react'
+import Body from './components/Body'
 
 const App = () => {
   return (
-    <div className="text-orange-700 text-8xl">
-      Hello
-    </div>
+    <Body />
+    
   )
 }
 
